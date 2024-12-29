@@ -1,0 +1,16 @@
+{
+"companyName": "Anchor Rock Studios",
+"productName": "Christmas Card 2024",
+"productVersion": "0.1",
+"dataUrl": "Christmas_v2.0.data.unityweb",
+"wasmCodeUrl": "Christmas_v2.0.wasm",
+"wasmFrameworkUrl": "Christmas_v2.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
